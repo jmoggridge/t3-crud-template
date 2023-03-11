@@ -26,3 +26,10 @@ You can check out the [create-t3-app GitHub repository](https://github.com/t3-os
 ## How do I deploy this?
 
 Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+
+## SETUP TEMPLATE
+
+### Github Oauth Setup
+
+See instructions here for github Oauth app setup (need to do same for client @ localhost:3000 and production)
+https://scribehow.com/shared/How_to_Create_an_OAuth_App_on_GitHub_for_NextAuth__1zhCqgvrSiq7wigrE5xrJw
